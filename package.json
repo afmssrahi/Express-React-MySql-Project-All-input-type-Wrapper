@@ -1,0 +1,18 @@
+{
+  "name": "form-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+    "start": "concurrently \"yarn --cwd ./server run start\" \"wait-on http://localhost:5000/ && yarn --cwd ./client run start\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.0.0",
+    "wait-on": "^6.0.0"
+  }
+}
