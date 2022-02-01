@@ -5,14 +5,14 @@
     * 4. and type (yarn install)
 
 # Second Step
-    * 1. (Optional) Go to this link [client link](https://github.com/afmssrahi/All-input-file-type-exercise-in-react)
+## 1. (Optional) Go to this link [client link](https://github.com/afmssrahi/All-input-file-type-exercise-in-react)
     * 2.Type (git clone https://github.com/afmssrahi/All-input-file-type-exercise-in-react)
     * 3. Then type (cd .\All-input-file-type-exercise-in-react\)
     * 4. and type (yarn install)
     * 6. finally type (cd ..)
 
 # Third Step
-    * 1. (Optional) Go to this link [server link](https://github.com/afmssrahi/server-for-fullFuom.git)
+## 1. (Optional) Go to this link [server link](https://github.com/afmssrahi/server-for-fullFuom.git)
     * 2.Type (git clone https://github.com/afmssrahi/server-for-fullFuom.git)
     * 3. Then type (cd .\server-for-fullFuom\)
     * 4. and type (yarn install)
